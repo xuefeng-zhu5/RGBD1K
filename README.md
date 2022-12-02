@@ -3,7 +3,7 @@ Dataset for the paper: RGBD1K：A Large-scale Dataset and Benchmark for RGB-D Ob
 
 ## Download
 
-The RGBD1K dataset is available on Baidu Cloud Disk. The download link is: https://pan.baidu.com/s/13EI1qBENE6QFa_06QPLcFg, and the code is: ri21.
+[2022.12.02] The RGBD1K dataset is available on Baidu Cloud Disk. The download link is: https://pan.baidu.com/s/13EI1qBENE6QFa_06QPLcFg, and the code is: ri21.
 
 The RGBD1K dataset will be publicly available on Google Drive soon.
 
