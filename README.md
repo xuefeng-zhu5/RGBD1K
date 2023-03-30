@@ -9,9 +9,11 @@ To facilitate downloading, only the labeled RGB-D frames have been uploaded. The
 The RGBD1K dataset is publicly available on [Google Drive](https://drive.google.com/drive/folders/1Z2PnWEgdZG0KVI2MX5chWddNlbuuEug3?usp=share_link) now.
 
 ### RGB-D Video Samples
-![basketball](https://github.com/xuefeng-zhu5/RGBD1K/blob/main/basketball.mp4)
-![car](https://github.com/xuefeng-zhu5/RGBD1K/blob/main/car.mp4)
-![deer](https://github.com/xuefeng-zhu5/RGBD1K/blob/main/deer.mp4)
+<div align="left">
+  <img src="basketball.mp4" width="1080px" />
+  <img src="car.mp4" width="1080px" />
+  <img src="deer.mp4" width="1080px" />
+</div>
 
 ## Publication
 ### [Download the Paper](https://arxiv.org/pdf/2208.09787.pdf)
