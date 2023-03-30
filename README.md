@@ -10,9 +10,9 @@ The RGBD1K dataset is publicly available on [Google Drive](https://drive.google.
 
 ### RGB-D Video Samples
 <div align="left">
-  <img src="basketball.mp4" width="1080px" />
-  <img src="car.mp4" width="1080px" />
-  <img src="deer.mp4" width="1080px" />
+  <img src="basketball.mp4" width="540px" />
+  <img src="car.mp4" width="540px" />
+  <img src="deer.mp4" width="540px" />
 </div>
 
 ## Publication
